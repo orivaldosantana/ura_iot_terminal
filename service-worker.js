@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ura_iot_terminal/precache-manifest.ea5f2b384bf035bdbf028a46c7013f31.js"
+  "/ura_iot_terminal/precache-manifest.6ee54d4470f2f7422e686045f593fa2c.js"
 );
 
 self.addEventListener('message', (event) => {
