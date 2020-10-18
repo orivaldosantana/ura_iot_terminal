@@ -1,0 +1,2 @@
+(this.webpackJsonpura_iot_terminal=this.webpackJsonpura_iot_terminal||[]).push([[0],{3:function(n,t,e){n.exports=e(4)},4:function(n,t,e){"use strict";e.r(t);var o=e(0),r=e.n(o),a=e(2),i=e.n(a);e(9);i.a.render(r.a.createElement("h1",null," Ol\xe1 Mundo  "),document.getElementById("root"))},9:function(n,t,e){}},[[3,1,2]]]);
+//# sourceMappingURL=main.8505fc6f.chunk.js.map
