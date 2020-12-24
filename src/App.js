@@ -7,7 +7,7 @@ import RobotStatus from './components/RobotStatus';
 
 export default function App() {
   return (
-    <Connector brokerUrl="wss://test.mosquitto.org:8081" >
+    <Connector brokerUrl="ws://157.230.89.7:1884" opts="[{ username:'mqtt', password:'oriva_mqtt'}]" >
         <h1>Terminal URA MQTT</h1>
         <Status />
         <BasicControl />
