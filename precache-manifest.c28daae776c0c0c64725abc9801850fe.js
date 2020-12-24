@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb113635a9f3ecaa6ebe37c9bcbad610",
+    "revision": "4e1d5660820fdc486580aadfe3696d2c",
     "url": "/ura_iot_terminal/index.html"
   },
   {
-    "revision": "dba2fa657d154c9dce12",
+    "revision": "a4452fd69041606e9ad1",
     "url": "/ura_iot_terminal/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ura_iot_terminal/static/js/2.bb069853.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dba2fa657d154c9dce12",
-    "url": "/ura_iot_terminal/static/js/main.adbdaa97.chunk.js"
+    "revision": "a4452fd69041606e9ad1",
+    "url": "/ura_iot_terminal/static/js/main.5d6bd317.chunk.js"
   },
   {
     "revision": "549424f4f0387ef82aec",

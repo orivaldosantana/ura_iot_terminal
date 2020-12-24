@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ura_iot_terminal/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/ura_iot_terminal/static/js/main.adbdaa97.chunk.js",
-    "main.js.map": "/ura_iot_terminal/static/js/main.adbdaa97.chunk.js.map",
+    "main.js": "/ura_iot_terminal/static/js/main.5d6bd317.chunk.js",
+    "main.js.map": "/ura_iot_terminal/static/js/main.5d6bd317.chunk.js.map",
     "runtime-main.js": "/ura_iot_terminal/static/js/runtime-main.039e6fce.js",
     "runtime-main.js.map": "/ura_iot_terminal/static/js/runtime-main.039e6fce.js.map",
     "static/js/2.bb069853.chunk.js": "/ura_iot_terminal/static/js/2.bb069853.chunk.js",
     "static/js/2.bb069853.chunk.js.map": "/ura_iot_terminal/static/js/2.bb069853.chunk.js.map",
     "index.html": "/ura_iot_terminal/index.html",
-    "precache-manifest.7c9df56fe0c0dcd37d76305652687e5b.js": "/ura_iot_terminal/precache-manifest.7c9df56fe0c0dcd37d76305652687e5b.js",
+    "precache-manifest.c28daae776c0c0c64725abc9801850fe.js": "/ura_iot_terminal/precache-manifest.c28daae776c0c0c64725abc9801850fe.js",
     "service-worker.js": "/ura_iot_terminal/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/ura_iot_terminal/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.bb069853.chunk.js.LICENSE.txt": "/ura_iot_terminal/static/js/2.bb069853.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.039e6fce.js",
     "static/js/2.bb069853.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.adbdaa97.chunk.js"
+    "static/js/main.5d6bd317.chunk.js"
   ]
 }
