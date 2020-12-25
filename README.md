@@ -13,4 +13,7 @@ Todo:
 * Configurar este projeto para conectar a este servidor 
 
 Esta aplicação está em desenvolvimento e pode ser acessada em: 
-???
+http://controleura.orivaldo.net/
+
+## Referências 
+* [How To Secure Nginx with Let's Encrypt on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04)
