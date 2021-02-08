@@ -1,5 +1,5 @@
-# Terminal IoT para o URA
-Prompt de comandos para acessar um robô do URA via mqtt
+# Controle IoT para o URA
+Controla e recebe mensagens de um robô do URA via mqtt
 * É possível enviar comandos existentes usando botões 
 * Possível visualizar a última mensagem que chegou em um canal 
 * Falta implementar a caixa de texto para receber um comando com escrita livre
