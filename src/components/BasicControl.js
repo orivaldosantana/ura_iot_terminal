@@ -1,6 +1,8 @@
 import React from 'react';
 import { useMqttState } from 'mqtt-react-hooks';
 
+import './BasicControl.css'
+
 export default function BasicControl() {
   const { mqtt } = useMqttState();
 
@@ -9,7 +11,7 @@ export default function BasicControl() {
   }
 
   return (
-    <>
+    <div className="controls">
         <button type="button" onClick={() => handleClick('f')}>
             Frente 
         </button>
@@ -25,7 +27,7 @@ export default function BasicControl() {
             Trás  
         </button>
 
-  </>
+  </div> 
   );
 }
 

@@ -1,0 +1,20 @@
+button {
+    font-size: 1.4em; 
+    background-color: #EFF5FB;
+    width: 180px;
+    height: 60px;
+    border-color: #5882FA;
+    outline: none;
+    border-width: 1px;
+    border-radius: 8px;
+    color: #0431B4; 
+    margin: 3px; 
+}
+
+button:active {
+    background-color: #2E9AFE;
+}
+
+.controls {
+    margin: 30px; 
+}
