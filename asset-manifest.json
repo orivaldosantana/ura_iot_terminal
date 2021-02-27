@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/ura_iot_terminal/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/ura_iot_terminal/static/js/main.5d6bd317.chunk.js",
-    "main.js.map": "/ura_iot_terminal/static/js/main.5d6bd317.chunk.js.map",
+    "main.css": "/ura_iot_terminal/static/css/main.a63377a5.chunk.css",
+    "main.js": "/ura_iot_terminal/static/js/main.baf6e9fd.chunk.js",
+    "main.js.map": "/ura_iot_terminal/static/js/main.baf6e9fd.chunk.js.map",
     "runtime-main.js": "/ura_iot_terminal/static/js/runtime-main.039e6fce.js",
     "runtime-main.js.map": "/ura_iot_terminal/static/js/runtime-main.039e6fce.js.map",
-    "static/js/2.bb069853.chunk.js": "/ura_iot_terminal/static/js/2.bb069853.chunk.js",
-    "static/js/2.bb069853.chunk.js.map": "/ura_iot_terminal/static/js/2.bb069853.chunk.js.map",
+    "static/js/2.55434c0c.chunk.js": "/ura_iot_terminal/static/js/2.55434c0c.chunk.js",
+    "static/js/2.55434c0c.chunk.js.map": "/ura_iot_terminal/static/js/2.55434c0c.chunk.js.map",
     "index.html": "/ura_iot_terminal/index.html",
-    "precache-manifest.c28daae776c0c0c64725abc9801850fe.js": "/ura_iot_terminal/precache-manifest.c28daae776c0c0c64725abc9801850fe.js",
+    "precache-manifest.c45b62a03ffe7b433d515d87a4e909bb.js": "/ura_iot_terminal/precache-manifest.c45b62a03ffe7b433d515d87a4e909bb.js",
     "service-worker.js": "/ura_iot_terminal/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/ura_iot_terminal/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.bb069853.chunk.js.LICENSE.txt": "/ura_iot_terminal/static/js/2.bb069853.chunk.js.LICENSE.txt"
+    "static/css/main.a63377a5.chunk.css.map": "/ura_iot_terminal/static/css/main.a63377a5.chunk.css.map",
+    "static/js/2.55434c0c.chunk.js.LICENSE.txt": "/ura_iot_terminal/static/js/2.55434c0c.chunk.js.LICENSE.txt",
+    "static/media/URA_150px.png": "/ura_iot_terminal/static/media/URA_150px.397cdd23.png"
   },
   "entrypoints": [
     "static/js/runtime-main.039e6fce.js",
-    "static/js/2.bb069853.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.5d6bd317.chunk.js"
+    "static/js/2.55434c0c.chunk.js",
+    "static/css/main.a63377a5.chunk.css",
+    "static/js/main.baf6e9fd.chunk.js"
   ]
 }
